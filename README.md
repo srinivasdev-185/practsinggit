@@ -1,2 +1,2 @@
 # practsinggit
-I am lerning how to use git
+I am lerning how to use git.
